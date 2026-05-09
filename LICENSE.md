@@ -1,4 +1,4 @@
-
+Enhance Obsidian for Windows with automatic Obsidian for Windows Automation | custom-themes + folders, the #1 automation. Includes custom-themes and folders for a smoother and
 
 
 
